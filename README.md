@@ -18,3 +18,6 @@
 - Run the application 
 
   `ng serve`
+
+  - screenshot of the Application
+    ![house-listing-app](https://github.com/user-attachments/assets/7075a110-0c01-45a9-b9c2-b244d3093731)
