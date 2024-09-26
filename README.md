@@ -19,5 +19,9 @@
 
   `ng serve`
 
-  - screenshot of the Application
+  - Application Home Page
     ![house-listing-app](https://github.com/user-attachments/assets/7075a110-0c01-45a9-b9c2-b244d3093731)
+
+  - Specific housing unit details page
+    ![detail-page](https://github.com/user-attachments/assets/ba6c4486-43f2-4cd7-823d-4a50bef6bf91)
+
