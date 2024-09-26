@@ -9,7 +9,11 @@ import {RouterModule} from "@angular/router";
   template: `
     <main>
       <header class="brand-name">
-        <img class="brand-logo" ngSrc="/assets/img/logo.png" alt="logo" aria-hidden="true"/>
+        <img class="brand-logo"
+             src="/assets/img/logo.png"
+             alt="logo"
+             width="20px"
+             height="30px"/>
       </header>
       <section class="content">
         <router-outlet></router-outlet>
